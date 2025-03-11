@@ -120,7 +120,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-# python extractfamilyfromvcf.py --vcf all.sample.remaining.vcf --ped ped.txt --outdir ./denovo
+# python extractfamilyfromvcf.py --vcf all.sample.remaining.vcf --ped ped.txt --outdir ./family
 # pedfile
 #FamilyID	SampleID	FatherID	MotherID	Sex	Phenotype
 #DY-ZYDF-300-052	DY-ZYDF-300-052	DY-ZYDF-298-063	DY-ZYDF-296-088	2	2
